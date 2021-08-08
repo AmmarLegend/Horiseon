@@ -16,6 +16,6 @@ Refactor code by meeting standards in web accessibility and following the Scout 
 
 Link: https://github.com/AmmarLegend/Horiseon
 
-![Horiseon](./assets/images/screenshot-full-page.png)
+![Horiseon](./assets/images/screenshot.png)
 
 Best OF Luck!!!
